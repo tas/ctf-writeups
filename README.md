@@ -1,3 +1,3 @@
 # ctf-writeups
 
-test1
+Personal writeups for beginner level CTFs to document progress.
